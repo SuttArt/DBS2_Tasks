@@ -13,4 +13,4 @@ Ab Task_2 sind alle Aufgaben miteinander verknüpft und basieren auf der Lösung
 
 **Warning**
 
-**Für Task_1** um die grose Datei(~500 MB) herunterzuladen: https://box.hu-berlin.de/f/740e9f7c01d44ef4b47c/?dl=1
+**Für Task_1** Um eine große Datei (~500 MB) zu erstellen, müssen Sie das Skript "create_large_file_txt.sh" ausführen.
